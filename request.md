@@ -8,19 +8,31 @@ sidebar: false
 
 # Request a discussion
 
-Access is consultation-gated to keep work rigorous and confidential.
+Thank you for your interest in expert-led evidence synthesis and review drafting support.
 
-**Email:** `CONTACT_EMAIL_HERE`  
-**Intake form:** `PASTE_FORM_LINK_HERE`
+To begin, please complete the short intake form below. This helps clarify your goals, timeline, and constraints so that our initial discussion is productive.
 
-## What happens next
-1) I review your intake (topic, goal, deadline, constraints).  
-2) If it’s a fit, we schedule a short scoping call.  
-3) You receive a written proposal with scope, milestones, and deliverables.
+👉 **Start here:** [Complete the intake form](https://docs.google.com/forms/d/1fIQuT5OtMRewN-GNEunPXkyaZdIiFWljgULKfLHo16Y/viewform)
 
-## What to include (copy/paste is fine)
-- Topic/field and the intended output (review, grant, technical report, etc.)
-- Deadline and any internal milestones
-- Whether you have seed papers, an existing library, or a draft manuscript
-- Preferred synthesis type (narrative, scoping-style, structured review)
-- Any constraints (databases, languages, confidentiality)
+If you have questions or prefer to reach out by email, you can contact:
+
+**Email:** `jamalnasir741@gmail.com`
+
+---
+
+## What to include in the intake
+
+The form asks about:
+- Your name and organisation
+- Topic / field and primary goal
+- Timeline or deadlines
+- What materials you already have (seed papers, draft, library, etc.)
+- Preferred type of support
+- Any constraints (e.g., specific databases, confidentiality, AI tool preferences)
+
+After you submit the form:
+1) We review your responses (usually within 48 hours).  
+2) If it’s a good fit, we schedule a short scoping call.  
+3) You receive a written proposal with scope, timeline, and deliverables.
+
+We aim for a clear and professional process; structured intake helps keep discussions focused and efficient.

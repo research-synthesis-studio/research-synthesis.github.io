@@ -3,5 +3,7 @@ main:
     url: /services/
   - title: "How it works"
     url: /how-it-works/
+  - title: "Sample outputs"
+    url: /samples/
   - title: "Request discussion"
     url: /request/

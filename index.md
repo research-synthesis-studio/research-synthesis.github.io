@@ -1,14 +1,19 @@
 ---
 layout: default
-author_profile: false
-sidebar: false
-author_profile: false
-sidebar: false
 title: Research Synthesis
+author_profile: false
+sidebar: false
 ---
 
-# Expert-led evidence synthesis & review drafting support
+# Evidence synthesis and review drafting support — delivered with an audit trail
 
-A private, consultation-gated service for academic and R&D teams who need rigorous literature synthesis, structured evidence mapping, and manuscript-ready tables/figures—delivered with a clear evidence trail.
+A private, consultation-gated service supporting academic and R&D teams with rigorous literature analysis, structured synthesis, and manuscript-ready tables/figures.
 
-**Request a discussion →** [Start here](/request/)
+**Typical outputs**
+- Evidence maps and thematic syntheses across large corpora
+- Draft-ready outlines and section drafts for reviews and technical reports
+- Publication-quality figures/tables (with editable sources where possible)
+- Reference libraries (BibTeX/RIS/EndNote) plus a clear evidence trail
+
+**How access works:** request discussion → scoping call → written proposal → delivery.  
+**Start here →** [Request a discussion](/request/) • [Services](/services/) • [How it works](/how-it-works/)

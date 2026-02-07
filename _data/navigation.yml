@@ -1,9 +1,9 @@
 main:
   - title: "Services"
-    url: /services/
+    url: "{{ site.baseurl }}/services/"
   - title: "How it works"
-    url: /how-it-works/
+    url: "{{ site.baseurl }}/how-it-works/"
   - title: "Sample outputs"
-    url: /samples/
+    url: "{{ site.baseurl }}/samples/"
   - title: "Request discussion"
-    url: /request/
+    url: "{{ site.baseurl }}/request/"

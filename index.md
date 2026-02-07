@@ -16,4 +16,4 @@ A private, consultation-gated service supporting academic and R&D teams with rig
 - Reference libraries (BibTeX/RIS/EndNote) plus a clear evidence trail
 
 **How access works:** request discussion → scoping call → written proposal → delivery.  
-**Start here →** [Request a discussion](/request/) • [Services](/services/) • [How it works](/how-it-works/)
+**Start here →** [Request a discussion]({{ site.baseurl }}/request/) • [Services]({{ site.baseurl }}/services/) • [How it works]({{ site.baseurl }}/how-it-works/)

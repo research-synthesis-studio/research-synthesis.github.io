@@ -36,4 +36,4 @@ For strengthening an existing manuscript or report.
 - Additional figures/tables
 - Ongoing monthly evidence briefs (retainer)
 
-**Next step →** [Request a discussion](/request/)
+**Next step →** [Request a discussion]({{ site.baseurl }}/request/)

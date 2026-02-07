@@ -10,33 +10,33 @@
 
 @import
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+    "../_sass/themes",
+    "../_sass/theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "../_sass/theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-    "include/mixins",
-    "vendor/susy/susy",
+    "../_sass/include/mixins",
+    "../_sass/vendor/susy/susy",
 
-    "layout/reset",
-    "layout/base",
+    "../_sass/layout/reset",
+    "../_sass/layout/base",
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+    "../_sass/include/utilities",
+    "../_sass/layout/tables",
+    "../_sass/layout/buttons",
+    "../_sass/layout/notices",
+    "../_sass/layout/masthead",
+    "../_sass/layout/navigation",
+    "../_sass/layout/footer",
+    "../_sass/syntax",
 
-    "layout/forms",
+    "../_sass/layout/forms",
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
+    "../_sass/layout/page",
+    "../_sass/layout/archive",
+    "../_sass/layout/sidebar",
+    "../_sass/layout/json_cv",
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
+    "../_sass/vendor/font-awesome/fontawesome",
+    "../_sass/vendor/font-awesome/solid",
+    "../_sass/vendor/font-awesome/brands"
 ;

@@ -8,7 +8,8 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import
+
+    "../_sass/vendor/breakpoint/breakpoint",
 
     "../_sass/themes",
     "../_sass/theme/{{ site.site_theme | default: 'default' | append: '_light' }}",

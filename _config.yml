@@ -2,9 +2,9 @@
 title: "Research Synthesis"
 description: "Expert-led evidence synthesis and review drafting support."
 locale: "en-GB"
-url: "https://research-synthesis.github.io"
-baseurl: ""
-repository: "Jamal-tech-git/research-synthesis.github.io"
+url: "https://research-synthesis-studio.github.io"
+baseurl: "/research-synthesis.github.io"
+repository: "research-synthesis-studio/research-synthesis.github.io"
 
 # Theme options (keep if your layout expects it)
 site_theme: "default"
